@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anna
-- 👀 I’m interested in webdesign, UX/UI design and FrontEnd Development.
-- 🌱 I’m currently learning UX/UI
-- 💞️ I’m open to any job searches related to webdesign or UX/UI design.
+- 👀 I’m interested in webdesign, UI/UX design and FrontEnd Development.
+- 🌱 I’m currently learning UI/UX
+- 💞️ I’m open to any job searches related to webdesign or UI/UX design.
 - 📫 You can send me an email to anwedesign@gmail.com
 - 🎨 my Behance can be found here: https://www.behance.net/annatomberg
 
