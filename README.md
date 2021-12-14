@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annamichi
+- 👋 Hi, I’m Anna
 - 👀 I’m interested in webdesign, UX/UI design and FrontEnd Development.
 - 🌱 I’m currently learning UX/UI
 - 💞️ I’m open to any job searches related to webdesign or UX/UI design.
